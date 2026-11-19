@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" role="img" aria-labelledby="title desc">
+  <title id="title">POPÉ wordmark — on dark backgrounds</title>
+  <desc id="desc">Bubbly italic white wordmark with yellow spark rays. Benchmarked to brand logo board.</desc>
+  <g id="wordmark" fill="#FFFFFF" transform="skewX(-8) translate(18,0)">
+    <path d="M28 148 L28 32 C28 22 36 16 46 16 L102 16 C138 16 162 40 162 76 C162 112 138 136 102 136 L66 136 L66 148 C66 155 60 160 53 160 L39 160 C32 160 28 155 28 148 Z M66 98 L100 98 C116 98 128 86 128 76 C128 66 116 54 100 54 L66 54 Z"/>
+    <path d="M196 158 C154 158 124 122 124 84 C124 46 154 10 196 10 C238 10 268 46 268 84 C268 122 238 158 196 158 Z M196 126 C218 126 234 108 234 84 C234 60 218 42 196 42 C174 42 158 60 158 84 C158 108 174 126 196 126 Z"/>
+    <path d="M290 148 L290 32 C290 22 298 16 308 16 L364 16 C400 16 424 40 424 76 C424 112 400 136 364 136 L328 136 L328 148 C328 155 322 160 315 160 L301 160 C294 160 290 155 290 148 Z M328 98 L362 98 C378 98 390 86 390 76 C390 66 378 54 362 54 L328 54 Z"/>
+    <path d="M446 148 L446 32 C446 22 454 16 464 16 L556 16 C563 16 568 22 568 29 L568 46 C568 53 563 58 556 58 L486 58 L486 74 L540 74 C547 74 552 79 552 86 L552 100 C552 107 547 112 540 112 L486 112 L486 122 L560 122 C567 122 572 128 572 135 L572 148 C572 155 567 160 560 160 L464 160 C454 160 446 152 446 142 Z"/>
+    <path d="M500 6 L548 -4 C553 -5 557 -1 556 4 L552 16 C551 20 546 22 542 21 L494 31 C489 32 485 28 486 23 L490 11 C491 7 496 5 500 6 Z"/>
+  </g>
+  <g id="spark" fill="#FFE14A">
+    <rect x="548" y="8" width="11" height="38" rx="5.5" transform="rotate(-20 553.5 27)"/>
+    <rect x="570" y="0" width="11" height="42" rx="5.5" transform="rotate(6 575.5 21)"/>
+    <rect x="592" y="10" width="11" height="34" rx="5.5" transform="rotate(24 597.5 27)"/>
+  </g>
+</svg>
